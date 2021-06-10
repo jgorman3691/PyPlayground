@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Gosper",
+			"Karpus",
+			"arange",
+			"axline",
+			"deque",
+			"dups",
+			"fname",
+			"keyup",
+			"nargs",
+			"nplayer",
+			"numpy",
+			"plistlib",
+			"pygame",
+			"pyplot",
+			"set",
+			"vals",
+			"xlabel",
+			"ydata",
+			"ylabel"
+		],
+		"python.pythonPath": "/usr/local/bin/python3"
+	}
+}
